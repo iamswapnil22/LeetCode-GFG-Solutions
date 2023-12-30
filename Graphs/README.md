@@ -4,7 +4,7 @@
 
 ## Questions
 
-1. [ ] [Create a Graph, print it](#create-a-graph-print-it) - [Code](#)
+1. [x] [Create a Graph, print it](#create-a-graph-print-it) - [Code](#)
 2. [ ] [Implement BFS algorithm](#implement-bfs-algorithm) - [Code](#)
 3. [ ] [Implement DFS Algo](#implement-dfs-algo) - [Code](#)
 4. [ ] [Detect Cycle in Directed Graph using BFS/DFS Algo](#detect-cycle-in-directed-graph-using-bfsdfs-algo) - [Code](#)
