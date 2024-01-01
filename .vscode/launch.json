@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSA/LeetCodes-Solutions/Daily-Leetcode",
-      "program": "d:/DSA/LeetCodes-Solutions/Daily-Leetcode/build/Debug/outDebug",
+      "cwd": "d:/DSA/LeetCodes-Solutions/Graphs",
+      "program": "d:/DSA/LeetCodes-Solutions/Graphs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
