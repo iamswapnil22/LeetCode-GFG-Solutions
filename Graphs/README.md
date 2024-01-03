@@ -48,6 +48,7 @@
 42. [ ] [Number of Triangles in a Directed and Undirected Graph](#number-of-triangles-in-a-directed-and-undirected-graph) - [Code](#)
 43. [ ] [Minimize the cash flow among a given set of friends who have borrowed money from each other](#minimize-the-cash-flow-among-a-given-set-of-friends-who-have-borrowed-money-from-each-other) - [Code](#)
 44. [ ] [Two Clique Problem](#two-clique-problem) - [Code](#)
+45. [x] [Shortest Path in DAG](#shortestpathindag) - [Code](#)
 
 ## Create a Graph, print it
 
