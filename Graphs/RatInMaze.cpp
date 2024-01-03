@@ -40,5 +40,3 @@ class Solution{
         // Your code goes here
     }
 };
-
-
