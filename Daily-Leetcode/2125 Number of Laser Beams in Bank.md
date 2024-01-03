@@ -1,5 +1,6 @@
 # [2125 Number of Laser Beams in Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/?envType=daily-question&envId=2024-01-03)
 
+
 ## Using two Variables
 ```
 class Solution {
