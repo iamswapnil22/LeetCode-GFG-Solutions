@@ -1,5 +1,8 @@
 # [FindPlayersWithZeroOrOneLoss](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/?envType=daily-question&envId=2024-01-15)
 
+<img width="894" alt="image" src="https://github.com/iamswapnil22/LeetCode-GFG-Solutions/assets/95163993/6e2851ab-e626-4af2-bb02-be89e03b7d26">
+
+
 ```
 class Solution {
 public:
