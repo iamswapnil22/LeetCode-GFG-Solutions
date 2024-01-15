@@ -16,7 +16,7 @@
 10. [x] [Number of Enclaves](#number-of-enclaves) - [Code](#)
 11. [ ] [Making wired Connections](#making-wired-connections) - [Code](#)
 12. [ ] [Word Ladder](#word-ladder) - [Code](#)
-13. [ ] [Dijkstra Algorithm](#dijkstra-algorithm) - [Code](#)
+13. [x] [Dijkstra Algorithm](#dijkstra-algorithm) - [Code](#)
 14. [ ] [Implement Topological Sort](#implement-topological-sort) - [Code](#)
 15. [ ] [Minimum time taken by each job to be completed given by a Directed Acyclic Graph](#minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph) - [Code](#)
 16. [ ] [Find whether it is possible to finish all tasks or not from given dependencies](#find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies) - [Code](#)
