@@ -1,6 +1,9 @@
-# [Knapsack with Duplicate Items
-]https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
+# [Knapsack with Duplicate Items](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
 
+It is simple as 0/1 the main difference is that one item can be add to bag multiple times to maximize the profit 
+
+ex. if we have in super market to still product if there is gold silver and bronze then rather than selecting every item once we choose gold more than once to maximize the profit.
+that's it donneeee......
 
 ```
 class Solution{
