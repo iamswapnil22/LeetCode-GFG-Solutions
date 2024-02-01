@@ -1,4 +1,4 @@
-# LeetCode-GFG-Solutions's DSA Solutions Repository
+# LeetCode-GFG-Solutions's DSA Repository
 
 Welcome to my personal repository where I share solutions to various Data Structures and Algorithms (DSA) problems! 🚀
 
@@ -38,19 +38,19 @@ If you find this repository helpful, consider giving it a star to show your supp
     </thead>
     <tbody>
         <tr>
-            <td>1.</td>
+            <td align="center">1</td>
             <td>50 Days Badge</td>
-            <td><img width=80 height=80 src="/Badges/2023-50.gif"></td>
+            <td><img width=100 height=100 src="/Badges/2023-50.gif"></td>
         </tr>
         <tr>
-            <td>2.</td>
+            <td align="center">2</td>
             <td>100 Days Badge</td>
-            <td><img width=80 height=80 src="/Badges/2023-100.gif"></td>
+            <td><img width=100 height=100 src="/Badges/2023-100.gif"></td>
         </tr>
         <tr>
-            <td>1.</td>
+            <td align="center">3</td>
             <td>January Badge</td>
-            <td><img width=80 height=80 src="/Badges/2024-01.gif"></td>
+            <td><img width=100 height=100 src="/Badges/2024-01.gif"></td>
         </tr>
     </tbody>
 </table>
