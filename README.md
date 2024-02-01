@@ -26,23 +26,35 @@ If you find this repository helpful, consider giving it a star to show your supp
 <br>
 
 <div align="center">
-  <h1> 🏆 BADGES 🏆 </h1>
-</div>
+  <h1> 🏆 LEETCODE BADGES 🏆 </h1>
 
 <table>
     <thead>
         <tr>
+            <th>Sr.no.</th>
             <th>Title</th>
             <th>Badge</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Title</td>
-            <td>Badge</td>
+            <td>1.</td>
+            <td>50 Days Badge</td>
+            <td><img width=80 height=80 src="/Badges/2023-50.gif"></td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>100 Days Badge</td>
+            <td><img width=80 height=80 src="/Badges/2023-100.gif"></td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>January Badge</td>
+            <td><img width=80 height=80 src="/Badges/2024-01.gif"></td>
         </tr>
     </tbody>
 </table>
+</div>
 
 
 
