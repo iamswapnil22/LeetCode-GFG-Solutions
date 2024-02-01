@@ -22,5 +22,33 @@ Stay tuned for my upcoming Aptitude repository, where I'll share solutions and r
 
 ## 🌟 Give this Repo a Star
 If you find this repository helpful, consider giving it a star to show your support! ⭐
+<br>
+<br>
+
+<div align="center">
+  <h1> 🏆 BADGES 🏆 </h1>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Badge</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Title</td>
+            <td>Badge</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
 
 Happy Coding and Learning! 🚀
