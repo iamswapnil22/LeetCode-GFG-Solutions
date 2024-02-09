@@ -53,3 +53,14 @@ public:
     }
 };
 ```
+
+<---
+
+<p font="consolas"> //int temp = 1 + solve(str,i,k) + solve(str,k+1,j);<br>
+At this line we add 1 after each partition <br>
+if string is already palindrome we don;t need to further partition<br>
+and min to find minimum partition
+
+--->
+
+</p>
