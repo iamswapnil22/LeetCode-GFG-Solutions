@@ -113,3 +113,58 @@ public:
     }
 };
 ```
+
+### MOST PERFECT ANS ✅
+```
+class Solution {
+public:
+
+
+int memo[10001][101];
+
+  int check(int k,int n){
+         if(k==0||k==1){return k;}
+         if(n==1){return k;}
+         if(memo[k][n]!=-1){
+               return memo[k][n];
+         }
+         int st=1; int en=k;
+
+
+        int ans=INT_MAX;
+         while(st<=en){
+
+              int mid=(st+en)/2;
+              int broke=check(mid-1,n-1);
+              int notbroke=check(k-mid,n);
+              int temp=1+max(broke,notbroke);
+              if(broke>notbroke){
+                   en=mid-1;
+
+
+              }
+              else{
+                    st=mid+1;
+
+              }
+              ans=min(ans,temp);
+         }
+       return    memo[k][n]=ans;
+
+
+  }
+    int superEggDrop(int k, int n) {
+        swap(n,k);
+          for(int i=0;i<=10000;i++){
+                for(int j=0;j<=100;j++){
+                    memo[i][j]=-1;
+                }
+          }
+
+        //   //for me k=number of floors, n=number of eggs
+
+        return check(k,n);
+       
+    }
+};
+```
