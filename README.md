@@ -39,17 +39,22 @@ If you find this repository helpful, consider giving it a star to show your supp
     <tbody>
         <tr>
             <td align="center">1</td>
-            <td>50 Days Badge</td>
+            <td>50 Days Badge - 2023</td>
             <td><img width=100 height=100 src="/Badges/2023-50.gif"></td>
         </tr>
         <tr>
             <td align="center">2</td>
-            <td>100 Days Badge</td>
+            <td>100 Days Badge - 2023</td>
             <td><img width=100 height=100 src="/Badges/2023-100.gif"></td>
         </tr>
         <tr>
             <td align="center">3</td>
             <td>January Badge</td>
+            <td><img width=100 height=100 src="/Badges/2024-01.gif"></td>
+        </tr>
+       <tr>
+            <td align="center">4</td>
+            <td>50 Days Badge - 2024</td>
             <td><img width=100 height=100 src="/Badges/2024-01.gif"></td>
         </tr>
     </tbody>
