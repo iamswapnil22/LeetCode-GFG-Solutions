@@ -55,7 +55,7 @@ If you find this repository helpful, consider giving it a star to show your supp
        <tr>
             <td align="center">4</td>
             <td>50 Days Badge - 2024</td>
-            <td><img width=100 height=100 src="/Badges/2024-01.gif"></td>
+            <td><img width=100 height=100 src="/Badges/2024-50.gif"></td>
         </tr>
     </tbody>
 </table>
