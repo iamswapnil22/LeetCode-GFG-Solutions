@@ -49,7 +49,7 @@ If you find this repository helpful, consider giving it a star to show your supp
         </tr>
         <tr>
             <td align="center">3</td>
-            <td>January Badge</td>
+            <td>January Badge - 2024</td>
             <td><img width=100 height=100 src="/Badges/2024-01.gif"></td>
         </tr>
        <tr>
