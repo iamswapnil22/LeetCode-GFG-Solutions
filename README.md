@@ -26,7 +26,6 @@ If you find this repository helpful, consider giving it a star to show your supp
 
 <div align="center">
   <h1> 🏆 LEETCODE BADGES 🏆 </h1>
-
 <table>
     <thead>
         <tr>
